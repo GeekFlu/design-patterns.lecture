@@ -1,0 +1,7 @@
+Motivation
+	
+	some objects are simple and can be created by calling a constructor
+	Other objects require a lot of ceremony to create them
+	Having a 10 argument constructor is not very productive instead we should for a
+	piecewise construction, allowing people to construct an object piece by piece
+	Builder provides an API for constructing and object step by step 

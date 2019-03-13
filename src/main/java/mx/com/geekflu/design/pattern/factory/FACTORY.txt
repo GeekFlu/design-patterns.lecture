@@ -1,0 +1,2 @@
+A component responsible for the wholesale (not piecewise) creation
+of objects.

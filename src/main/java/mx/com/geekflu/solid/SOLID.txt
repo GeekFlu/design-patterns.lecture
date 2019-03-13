@@ -1,0 +1,19 @@
+Single responsibility principle - SRP
+	A class should only have one reason to change
+	Separation of concerns - different classes handling different, independent task/problems
+
+Open Closed principle - OPC
+	Classes should be open for extension but close for modification
+	
+Liskov substitution principle - LSP
+	You should be able to substitute a base type for a subtype
+	
+Interface Segregation principle - ISP
+	Do not put too much into an interface; split into separate interfaces, we have to do this
+	in order to avoid that client systems start to manage exceptions not implemented exception with things
+	that are not being using.
+	YAGNI - You Ain't Going To Need It
+	
+Dependency Inversion Principle - DPI
+	High level modules should not depend on low level modules
+	Both should depend on abstractions

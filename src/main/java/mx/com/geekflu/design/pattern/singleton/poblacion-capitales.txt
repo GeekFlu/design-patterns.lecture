@@ -1,0 +1,12 @@
+Tokyo
+33200000
+Mexico
+23456783
+Sao Paulo
+17700000
+Seul
+17500000
+Osaka
+16425000
+Jakarta
+14250000

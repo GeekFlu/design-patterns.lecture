@@ -1,0 +1,14 @@
+imperative style, which means that the concrete statements 
+— which manipulate state and behaviour — are written out explicitly.
+
+A few signals of very imperative (procedural) code:
+	1.- Focus on how to perform the task
+	2.- State changes and order of execution is important
+	3.- Many loops and conditionals
+
+The code clearly focuses on the “How” — which makes the “What” hard to determine.
+
+I can easily see what’s going on if I write my code in a more functional style, 
+which saves me time (because yes, I do read code 90% of the time instead of 
+writing it) and writing it like this is less error-prone, 
+because less lines gives less opportunity for bugs to hide.
